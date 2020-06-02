@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\anybi\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\anybi\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_AgentVisual.-1839446554.00" t="ExcludeRecursive" />
+    <e p="C:\Users\anybi\Desktop\AgentVisual" t="IncludeRecursive">
+      <e p="AgentVisual.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="deadAnimation.cs" t="Include" />
+        <e p="External" t="Include">
+          <e p="unity-shaders-1.1.0" t="Include">
+            <e p="Assets" t="Include">
+              <e p="Fonts" t="Include">
+                <e p="Heebo" t="Include">
+                  <e p="TTF" t="Include">
+                    <e p="OFL.txt" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="AdrianMiasikLogo.cs" t="Include" />
+                <e p="BackgroundScenarioManager.cs" t="Include" />
+                <e p="CarouselManager.cs" t="Include" />
+                <e p="DisplayCase.cs" t="Include" />
+                <e p="DisplayCaseCarousel.cs" t="Include" />
+                <e p="Hover.cs" t="Include" />
+                <e p="MaterialList.cs" t="Include" />
+                <e p="OpenURLOnClick.cs" t="Include" />
+                <e p="OrbitCamera.cs" t="Include" />
+                <e p="QuickSceneLoad.cs" t="Include" />
+                <e p="Selector" t="Include">
+                  <e p="Core" t="Include">
+                    <e p="ItemSelector.cs" t="Include" />
+                  </e>
+                  <e p="DisplayCaseSelector.cs" t="Include" />
+                </e>
+                <e p="ShaderModel.cs" t="Include" />
+                <e p="Timer" t="Include">
+                  <e p="Core" t="Include">
+                    <e p="TimerProgress.cs" t="Include" />
+                  </e>
+                  <e p="ShaderTimerProgress.cs" t="Include" />
+                </e>
+                <e p="UIContextManager.cs" t="Include" />
+                <e p="Zoom.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="Shaders - Standard" t="Include">
+                  <e p="2 Tone Dissolve.shader" t="Include" />
+                  <e p="Camera Based Outline.shader" t="Include" />
+                  <e p="Depth.shader" t="Include" />
+                  <e p="Disappearing Cow.shader" t="Include" />
+                  <e p="Gradient Custom Blend Points.shader" t="Include" />
+                  <e p="Gradient Posterize.shader" t="Include" />
+                  <e p="Gradient.shader" t="Include" />
+                  <e p="Lambert.shader" t="Include" />
+                  <e p="Normals.shader" t="Include" />
+                  <e p="Scrolling Texture Cutout.shader" t="Include" />
+                  <e p="Scrolling Texture.shader" t="Include" />
+                  <e p="Sine Vertex Displacement.shader" t="Include" />
+                  <e p="Specular Cell Shade.shader" t="Include" />
+                  <e p="Specular.shader" t="Include" />
+                  <e p="Transparency.shader" t="Include" />
+                  <e p="UV.shader" t="Include" />
+                  <e p="World Space.shader" t="Include" />
+                </e>
+              </e>
+              <e p="TextMesh Pro" t="Include">
+                <e p="Resources" t="Include">
+                  <e p="LineBreaking Following Characters.txt" t="Include" />
+                  <e p="LineBreaking Leading Characters.txt" t="Include" />
+                  <e p="Shaders" t="Include">
+                    <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+                    <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+                    <e p="TMP_Bitmap.shader" t="Include" />
+                    <e p="TMP_SDF Overlay.shader" t="Include" />
+                    <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+                    <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+                    <e p="TMP_SDF-Mobile.shader" t="Include" />
+                    <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+                    <e p="TMP_SDF-Surface.shader" t="Include" />
+                    <e p="TMP_SDF.shader" t="Include" />
+                    <e p="TMP_Sprite.shader" t="Include" />
+                    <e p="TMPro.cginc" t="Include" />
+                    <e p="TMPro_Properties.cginc" t="Include" />
+                    <e p="TMPro_Surface.cginc" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="SimpleCameraController.cs" t="Include" />
+        </e>
+        <e p="TestParkour.cs" t="Include" />
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
